@@ -1,1 +1,1 @@
-# prototiposInteractivos2-2023-20
+# Repositorio para la entrega de los prototipos del curso
